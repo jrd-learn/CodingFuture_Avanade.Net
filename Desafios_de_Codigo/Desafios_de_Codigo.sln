@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculando_o_Dano", "Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O_Guardiao_dos_Atributos", "O_Guardiao_dos_Atributos\O_Guardiao_dos_Atributos.csproj", "{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validando_a_Forca_de_Senhas_no_IAM", "Validando_a_Forca_de_Senhas_no_IAM\Validando_a_Forca_de_Senhas_no_IAM.csproj", "{9D62006B-57C6-483F-AB06-10007C749CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D62006B-57C6-483F-AB06-10007C749CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D62006B-57C6-483F-AB06-10007C749CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D62006B-57C6-483F-AB06-10007C749CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D62006B-57C6-483F-AB06-10007C749CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
