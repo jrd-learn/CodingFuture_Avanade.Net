@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista_de_Itens", "Lista_de_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculando_o_Dano", "Calculando_o_Dano\Calculando_o_Dano.csproj", "{04495CCE-4494-4261-98C5-AC6C6E6E6748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O_Guardiao_dos_Atributos", "O_Guardiao_dos_Atributos\O_Guardiao_dos_Atributos.csproj", "{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
