@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo", "Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo\Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo.csproj", "{C4EA2204-17B6-43AE-BFCC-4D313A689714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo", "Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo\Condicionalmente_Rico__Tomadas_de_Decisao_no_Codigo.csproj", "{C4EA2204-17B6-43AE-BFCC-4D313A689714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_de_Itens", "Lista_de_Itens\Lista_de_Itens.csproj", "{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista_de_Itens", "Lista_de_Itens\Lista_de_Itens.csproj", "{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculando_o_Dano", "Calculando_o_Dano\Calculando_o_Dano.csproj", "{04495CCE-4494-4261-98C5-AC6C6E6E6748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04495CCE-4494-4261-98C5-AC6C6E6E6748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
