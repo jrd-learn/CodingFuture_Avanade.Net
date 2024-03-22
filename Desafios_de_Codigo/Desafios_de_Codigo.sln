@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validando_a_Forca_de_Senhas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item_Magico", "Item_Magico\Item_Magico.csproj", "{A9DFDE35-78BA-4330-B24B-211D3779F6C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construindo_um_Exercito_de_Robos", "Construindo_um_Exercito_de_Robos\Construindo_um_Exercito_de_Robos.csproj", "{01AEF976-71F6-4E6C-8C91-522AB1CCF007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AEF976-71F6-4E6C-8C91-522AB1CCF007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AEF976-71F6-4E6C-8C91-522AB1CCF007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AEF976-71F6-4E6C-8C91-522AB1CCF007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AEF976-71F6-4E6C-8C91-522AB1CCF007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
