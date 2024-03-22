@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionalmente_Rico__Toma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista_de_Itens", "Lista_de_Itens\Lista_de_Itens.csproj", "{7A5194D8-2A25-4A3E-86F8-9E5F6D44DCF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculando_o_Dano", "Calculando_o_Dano\Calculando_o_Dano.csproj", "{04495CCE-4494-4261-98C5-AC6C6E6E6748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculando_o_Dano", "Calculando_o_Dano\Calculando_o_Dano.csproj", "{04495CCE-4494-4261-98C5-AC6C6E6E6748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O_Guardiao_dos_Atributos", "O_Guardiao_dos_Atributos\O_Guardiao_dos_Atributos.csproj", "{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O_Guardiao_dos_Atributos", "O_Guardiao_dos_Atributos\O_Guardiao_dos_Atributos.csproj", "{5A8BC9C2-4F89-4AA2-935A-CB688A49FFBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validando_a_Forca_de_Senhas_no_IAM", "Validando_a_Forca_de_Senhas_no_IAM\Validando_a_Forca_de_Senhas_no_IAM.csproj", "{9D62006B-57C6-483F-AB06-10007C749CEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validando_a_Forca_de_Senhas_no_IAM", "Validando_a_Forca_de_Senhas_no_IAM\Validando_a_Forca_de_Senhas_no_IAM.csproj", "{9D62006B-57C6-483F-AB06-10007C749CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item_Magico", "Item_Magico\Item_Magico.csproj", "{A9DFDE35-78BA-4330-B24B-211D3779F6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9D62006B-57C6-483F-AB06-10007C749CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D62006B-57C6-483F-AB06-10007C749CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D62006B-57C6-483F-AB06-10007C749CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DFDE35-78BA-4330-B24B-211D3779F6C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
