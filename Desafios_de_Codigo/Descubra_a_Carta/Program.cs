@@ -22,6 +22,7 @@ public class Carta
     public Valor GetValor()
     {
         //TODO: Implemente o GetValor();
+        return valor;
     }
 }
 
@@ -73,7 +74,13 @@ internal class Program
             case Naipe.Ouros:
                 nomeNaipe = "Ouros";
                 break;
-                //TODO: Complete o código
+            //TODO: Complete o código
+            case Naipe.Copas:
+                nomeNaipe = "Copas";
+                break;
+            case Naipe.Espadas:
+                nomeNaipe = "Espadas";
+                break;
         }
 
         Console.WriteLine($"Carta escolhida: {nomeValor} de {nomeNaipe}");
