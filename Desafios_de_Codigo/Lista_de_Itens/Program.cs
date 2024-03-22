@@ -10,10 +10,10 @@ namespace Lista_de_Itens
             // Lista para armazenar os itens
             List<string> itens = new List<string>();
 
-            // TODO: Solicite os itens ao usuário
+            // TODO: Solicite os itens ao usuario
             for (int i = 0; i < 3; i++)
             {
-                itens.Add(i.ToString(Console.ReadLine()));
+                itens.Add(Console.ReadLine());
             }
 
             // Exibe a lista de itens
