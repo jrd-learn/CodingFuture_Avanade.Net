@@ -13,11 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O_Guardiao_dos_Atributos", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validando_a_Forca_de_Senhas_no_IAM", "Validando_a_Forca_de_Senhas_no_IAM\Validando_a_Forca_de_Senhas_no_IAM.csproj", "{9D62006B-57C6-483F-AB06-10007C749CEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item_Magico", "Item_Magico\Item_Magico.csproj", "{A9DFDE35-78BA-4330-B24B-211D3779F6C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Item_Magico", "Item_Magico\Item_Magico.csproj", "{A9DFDE35-78BA-4330-B24B-211D3779F6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construindo_um_Exercito_de_Robos", "Construindo_um_Exercito_de_Robos\Construindo_um_Exercito_de_Robos.csproj", "{01AEF976-71F6-4E6C-8C91-522AB1CCF007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construindo_um_Exercito_de_Robos", "Construindo_um_Exercito_de_Robos\Construindo_um_Exercito_de_Robos.csproj", "{01AEF976-71F6-4E6C-8C91-522AB1CCF007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descubra_a_Carta", "Descubra_a_Carta\Descubra_a_Carta.csproj", "{0853C3C0-6782-497E-B4E1-61F452E70674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Descubra_a_Carta", "Descubra_a_Carta\Descubra_a_Carta.csproj", "{0853C3C0-6782-497E-B4E1-61F452E70674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacao_de_Nota", "Validacao_de_Nota\Validacao_de_Nota.csproj", "{1A7026A3-7401-4DC3-8AD5-A15DD014312F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoHoHo", "HoHoHo\HoHoHo.csproj", "{EE5B47D4-21E1-4B1C-9D91-8D4753801084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedro_Bento_e_o_Mundo_de_OZ", "Pedro_Bento_e_o_Mundo_de_OZ\Pedro_Bento_e_o_Mundo_de_OZ.csproj", "{C8E017C2-D0F2-4AE1-9A0D-8A94FD343B9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{0853C3C0-6782-497E-B4E1-61F452E70674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0853C3C0-6782-497E-B4E1-61F452E70674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0853C3C0-6782-497E-B4E1-61F452E70674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7026A3-7401-4DC3-8AD5-A15DD014312F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7026A3-7401-4DC3-8AD5-A15DD014312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7026A3-7401-4DC3-8AD5-A15DD014312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7026A3-7401-4DC3-8AD5-A15DD014312F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5B47D4-21E1-4B1C-9D91-8D4753801084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5B47D4-21E1-4B1C-9D91-8D4753801084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5B47D4-21E1-4B1C-9D91-8D4753801084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5B47D4-21E1-4B1C-9D91-8D4753801084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E017C2-D0F2-4AE1-9A0D-8A94FD343B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E017C2-D0F2-4AE1-9A0D-8A94FD343B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E017C2-D0F2-4AE1-9A0D-8A94FD343B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E017C2-D0F2-4AE1-9A0D-8A94FD343B9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
